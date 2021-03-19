@@ -1,3 +1,3 @@
 # Go-RESTful
 
-- A simple RESTful web services using GoLang
+- RESTful web services using Go.
